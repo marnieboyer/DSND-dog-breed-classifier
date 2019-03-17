@@ -12,3 +12,6 @@ The images folder has the test images for this project.
 
 ## Models:
 The saved_models folder contains the models saved during this project
+
+## Pre-computer bottleneck features for InceptionV3
+https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.npz
